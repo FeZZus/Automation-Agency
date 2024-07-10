@@ -11,20 +11,27 @@
 
 ### What to offer them: 
 -	https://www.skool.com/automation-agency-9540/classroom/1893d60f?md=d3e4929e35284e28b249542b8bdb0720 – end of this vid discusses it
--	Free website, mailing list, posters/qr codes for their mailing list, 
--	I work with them to get: 
-  -	Slow times of the week/day to give offers
-  -	Festivals typical to their culture
-  -	Birthdays, holidays, pormotional events
-  -	**Maybe do an intiial setup with them, then just let them run it from there**
+-	Free website, mailing list,
+	-	Posters/qr codes for their mailing list
+-	Just anhythign to make them take out their phone and scan the web page. 
+-	I work with them to get:
+    -	Slow times of the week/day to give offers
+      - (Can be set in advance)
+    -	Festivals typical to their culture,	Birthdays, holidays, pormotional events
+    -	GIVEAWAYS: Sign up for free dinner for 2
+    -	**Maybe do an intiial setup with them, then just let them run it from there**
+
+**Selling Point:** Restauraunts allow custoemrs to sit down eat their food and whatever, and then they leave. But the restauraunt then after that they dont know who the people are, if they're ever gonna come back, if they're enjoyign their meals or have any means of communicating with them (some stat about people that would come back). Currently majority of businmess communicate with their customers wihh social media, but that requries a lot of luck, is brodacasted to people who live hours away, it doesn't work and isnt foolproof. 
 
 <br>
 
 ### Workflow:
 -	Customer scans QR code for free coffee/loyalty program
--	They open up a form and submit their details
+-	They open up a form and submit their details: Email and SMS
 -	We create a contact with them on our CRM
+  - Internal notification can be sent to business owner as well
 -	And then cofnirmation SMS is sent to the customer for their free coffee.
+  
 - THEN: We offer direct text marketing
   -	On slow days, you send out mass text SMS to the people for a limited buy one get one free special 
   -	Then seats fill up
@@ -44,4 +51,7 @@
 ## Resources:
 - https://www.skool.com/automation-agency-9540/classroom/f634fd4b?md=261a18d3be2b4596836bac6eba6c6958
 - Signing up for the licence gives access to **Agency^2**, which is a whole bunch of resources discussing go high level, its features, and metrics and data which can be used for customers
+- **VERY GOOD VIDEO - Automating Restauraunts:** https://www.youtube.com/watch?v=MEHY0jsKMoM&list=WL&index=3&ab_channel=HamzaAutomates
+- **Sales Techniquee:** https://www.youtube.com/watch?v=4_X6JZ6lig0&ab_channel=HamzaAutomates 14:30 onwards
+- **How to price automations:** https://www.youtube.com/watch?v=jzh5iUAcIS8&list=WL&index=2 Bit dry 
 
