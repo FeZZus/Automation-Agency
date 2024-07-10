@@ -22,6 +22,7 @@
     -	**Maybe do an intiial setup with them, then just let them run it from there**
 
 **Selling Point:** Restauraunts allow custoemrs to sit down eat their food and whatever, and then they leave. But the restauraunt then after that they dont know who the people are, if they're ever gonna come back, if they're enjoyign their meals or have any means of communicating with them (some stat about people that would come back). Currently majority of businmess communicate with their customers wihh social media, but that requries a lot of luck, is brodacasted to people who live hours away, it doesn't work and isnt foolproof. 
+**Another selling point**: Texting lists, he has a lannding page somwhere after getting the licence that says why you need a text list (we can pitch this)
 
 <br>
 
