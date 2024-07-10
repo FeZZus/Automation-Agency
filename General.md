@@ -49,10 +49,16 @@
 
 <br>
 
+FIGURE OUT HOW TO USE DOMAINS TO GIVE PEOPLE THE WEBSITES THEY NEED - I THINK IT SHOULD WORK, CAN CHARGE LIKE £30 A MONTH TO MAANGE, AND THEN A $50 INTIAIL SETUP FEE OR SOMETHING THAT ALLOWS US TO BUY THE DOMAIN. 
+
 ## Resources:
 - https://www.skool.com/automation-agency-9540/classroom/f634fd4b?md=261a18d3be2b4596836bac6eba6c6958
 - Signing up for the licence gives access to **Agency^2**, which is a whole bunch of resources discussing go high level, its features, and metrics and data which can be used for customers
 - **VERY GOOD VIDEO - Automating Restauraunts:** https://www.youtube.com/watch?v=MEHY0jsKMoM&list=WL&index=3&ab_channel=HamzaAutomates
-- **Sales Techniquee:** https://www.youtube.com/watch?v=4_X6JZ6lig0&ab_channel=HamzaAutomates 14:30 onwards
-- **How to price automations:** https://www.youtube.com/watch?v=jzh5iUAcIS8&list=WL&index=2 Bit dry 
+**To watch when needed:**
+	- **Sales Techniquee/pitching/onboarding:** https://www.youtube.com/watch?v=4_X6JZ6lig0&ab_channel=HamzaAutomates 14:30 onwards
+	- **How to price automations:** https://www.youtube.com/watch?v=jzh5iUAcIS8&list=WL&index=2 Bit dry 
+	- GoHighLevel Offer to Sell for Beginners: https://www.youtube.com/watch?v=gZJVwetidx4&list=WL&index=4&ab_channel=HamzaAutomates
+	- How to seel to local businesses: https://www.youtube.com/watch?v=GJlJVT5lVrY&list=WL&index=5&ab_channel=HamzaAutomates
 
+  
