@@ -24,6 +24,8 @@ Can make infinite sub domains:    testpage.hexonadesign.com
     - Maybe add an About Us section detailign our process a bit more.
     - Delay on starting animation
     - **MAKE A FAQ**
+    - Make a customer/client review seciton - like on the "Marketing-agency page"
+    - Explore the other pages too for ideas
 - Phone Calling:
     - Figure out what the hell is happening
     - Maybe ask hamza for help on the **licencee reqeust page**
