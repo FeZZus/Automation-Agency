@@ -17,6 +17,10 @@ Can make infinite sub domains:    testpage.hexonadesign.com
     - Over 12k__103____ fix that
     - Delay on starting animation
     - **MAKE A FAQ**
+- Phone Calling:
+    - Figure out what the hell is happening
+    - Maybe ask hamza for help on the **licencee reqeust page**
+    - ...if it doesnt work again or the things dont get reviewed
 -	Emails:
     - Check DNS records on hostinger to find out whats happening
     - THen make the emails
