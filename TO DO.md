@@ -1,11 +1,15 @@
 ### Customers
-Get customers somehow, continue developing pitch (See pitch file)
+- Get customers somehow, continue developing pitch (See pitch file)
+
+<br>
 
 ### Learning:
 - Keep going with his automation course
 - Funnels and website building: https://www.loom.com/share/74691759358b4b8daa1f418dc1d2c83d?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true
 
 Can make infinite sub domains:    testpage.hexonadesign.com
+
+<br>
 
 ### Features:
 -	Stripe/payments DONE
