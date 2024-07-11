@@ -15,10 +15,13 @@ Can make infinite sub domains:    testpage.hexonadesign.com
 -	Stripe/payments DONE
     - Test with receipts/invoices and things
 - Website:
-    - Add payment and plan methods
-    - Update contact info when email comes through and pictures of us
+    - Urgent
+        - Add payment and plan methods
+        - Update contact info when email comes through and pictures of us
+        - Make compatible for mobile
+        - The button to contact us near the bottom goes nowhere
+        - Over 12k__103____ fix that
     - Maybe add an About Us section detailign our process a bit more.
-    - Over 12k__103____ fix that
     - Delay on starting animation
     - **MAKE A FAQ**
 - Phone Calling:
