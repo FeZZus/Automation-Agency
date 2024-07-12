@@ -23,11 +23,8 @@ Can make infinite sub domains:    testpage.hexonadesign.com
     - Make a customer/client review seciton - like on the "Marketing-agency page"
     - Explore the other pages too for ideas
 - Phone Calling:
-    - Figure out what the hell is happening
-    - Maybe ask hamza for help on the **licencee reqeust page**
-    - ...if it doesnt work again or the things dont get reviewed
+    - Figure out what the hell is happening - think i'm just waiting
 -	Emails:
-    - Check DNS records on hostinger to find out whats happening
-    - THen make the emails
-    - Forward to DSBZ and me
-      
+    - FOrward to DSBZ: https://support.hostinger.com/en/articles/3220927-how-to-set-up-hostinger-email-on-gmail-web-version?_gl=1*abcys0*_gcl_au*MTY3NjYyODgzMy4xNzIwNjkwNDc5LjEzNDAzMjM5MTcuMTcyMDcwMTA5Ni4xNzIwNzAxMTQw&_ga=2.141631346.1917812272.1720690482-1231418107.1720177907
+          - Top 3 settings i think
+
