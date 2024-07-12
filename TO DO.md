@@ -17,12 +17,8 @@ Can make infinite sub domains:    testpage.hexonadesign.com
 - Website:
     - Urgent
         - Add payment and plan methods
-        - Update contact info when email comes through and pictures of us
-        - Make compatible for mobile
-        - The button to contact us near the bottom goes nowhere
-        - Over 12k__103____ fix that
+        - Update pictures of us
     - Maybe add an About Us section detailign our process a bit more.
-    - Delay on starting animation
     - **MAKE A FAQ**
     - Make a customer/client review seciton - like on the "Marketing-agency page"
     - Explore the other pages too for ideas
