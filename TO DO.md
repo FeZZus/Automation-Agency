@@ -18,12 +18,12 @@ Can make infinite sub domains:    testpage.hexonadesign.com
     - Urgent
         - Add payment and plan methods
         - Update pictures of us
+        - Check by tmrw to see if DNS is workign properly
     - Maybe add an About Us section detailign our process a bit more.
-    - **MAKE A FAQ**
     - Make a customer/client review seciton - like on the "Marketing-agency page"
     - Explore the other pages too for ideas
 - Phone Calling:
-    - Figure out what the hell is happening - think i'm just waiting
+    - Figure out what the hell is happening - think i'm just waiting - 2 business days so ig by tuesday max??
 -	Emails:
     - FOrward to DSBZ: https://support.hostinger.com/en/articles/3220927-how-to-set-up-hostinger-email-on-gmail-web-version?_gl=1*abcys0*_gcl_au*MTY3NjYyODgzMy4xNzIwNjkwNDc5LjEzNDAzMjM5MTcuMTcyMDcwMTA5Ni4xNzIwNzAxMTQw&_ga=2.141631346.1917812272.1720690482-1231418107.1720177907
           - Top 3 settings i think
