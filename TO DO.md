@@ -17,9 +17,7 @@ Can make infinite sub domains:    testpage.hexonadesign.com
 - Website:
     - Urgent
         - Add payment and plan methods
-        - Update pictures of us
-        - Check by tmrw to see if DNS is workign properly
-    - Maybe add an About Us section detailign our process a bit more - FINISH THIS WITH WORD DOC CONTENT, AND ADD THE ANIMATIONS STUFF.
+        - Update pictures of us and contact us section
     - Make a customer/client review seciton - like on the "Marketing-agency page"
 - Phone Calling:
     - Figure out what the hell is happening - think i'm just waiting - 2 business days so ig by tuesday max??
