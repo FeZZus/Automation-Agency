@@ -15,6 +15,13 @@ Now, look, we are an automation and web design agency, and we specialise in two 
 2.	Customer Relationship Management, including introducing that curcial means of staying connected with your customers
 3.	Secondly, automated marketing campaigns that ensure your customers keep coming back. Imagine it’s 11am on a Tuesday, and you know you’ve got 3 chefs and 2 more waiters on payroll for the lunch shift but theres no customers. At the click of a button, imagine you could directly communicate with hundreds of your customers, send out a 2 for 1 Tuesday Appetiser special, or a 25% off voucher only valid for the next 3 hours or so. That’s literally just bringin in more customers.
 
+## Figures:
+- 1 dollar has an roi of 44$
+- Increasing your number of repeat customers by 5% can boost profits up to 125%
+- SMS Campaigns are incredibly easy to keep track of - you can host them yourself
+
+- Welcome forms, flash sales, summer discounts to get people through the door, 
+
 ## Comebacks during ptiching
 - Google Reviews
 - **Website:** Many businesses don’t have websites or very basic ones that aren’t capturing leads for them.
