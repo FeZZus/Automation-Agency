@@ -20,4 +20,10 @@ Can make infinite sub domains:    testpage.hexonadesign.com
     - Make a customer/client review seciton - like on the "Marketing-agency page"
 - Phone Calling:
     - Review has come in, buy the number and figure out the proper automation
-    - 
+- Email campaigns:
+    - More expensive initial setup,
+        - create them a domain
+        - create them an email address with hostinger - up to like 100 i think?
+        - Connect the domain to hostinger email provider
+        - Then connect the newly made email/dns server up to mg on gohighlevel and figure out email campaings
+        - 
