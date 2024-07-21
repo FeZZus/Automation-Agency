@@ -38,5 +38,5 @@ Split money
         - Link to unsubscribe
         - In "Email services", go to reply and forward settings and put in their email address
         - In business profile, need to set hte default unsubscribe and subscribe links too
-        - Inside the automation you can set specific from name and from email address
+        - Inside the automation you can set specific from NAME - WHICH SHOULD BE THE PLACE NAME, and can then just use hexona one and from email address
         - 
