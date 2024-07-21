@@ -9,6 +9,8 @@
 
 Can make infinite sub domains:    testpage.hexonadesign.com
 
+Split money
+
 <br>
 
 ### Features:
@@ -32,4 +34,5 @@ Can make infinite sub domains:    testpage.hexonadesign.com
         - create them an email address with hostinger - up to like 100 i think?
         - Connect the domain to hostinger email provider
         - Then connect the newly made email/dns server up to mg on gohighlevel and figure out email campaings
+        - Link to unsubscribe
         - 
