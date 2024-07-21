@@ -28,11 +28,15 @@ Split money
 ![image](https://github.com/user-attachments/assets/e472df1f-5628-41af-add4-262b9c6d0981)
 
 - **Email campaigns:** Templates are available:
-    - [Setting up email campaigns](https://www.google.com/search?q=email+campaings+on+gohighlevle&oq=email+campaings+on+gohighlevle&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEINTc1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+    - IF WE ACTUALLY GET CLIENTS, AND WE'RE HAVING ISSUES WITH THE EMAILS SPOOFING, REACH OUT TO HAMZA, TELL HIM I WANT TO CONNECT MY OWN MAILGUN ACCOUNT, THEN CONNECT A FREE MAILGUN ACCOUNT
+    -  [Setting up email campaigns](https://www.google.com/search?q=email+campaings+on+gohighlevle&oq=email+campaings+on+gohighlevle&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEINTc1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
     - More expensive initial setup,
         - create them a domain
         - create them an email address with hostinger - up to like 100 i think?
         - Connect the domain to hostinger email provider
         - Then connect the newly made email/dns server up to mg on gohighlevel and figure out email campaings
         - Link to unsubscribe
+        - In "Email services", go to reply and forward settings and put in their email address
+        - In business profile, need to set hte default unsubscribe and subscribe links too
+        - Inside the automation you can set specific from name and from email address
         - 
