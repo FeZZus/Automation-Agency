@@ -1,5 +1,10 @@
 ### Customers
 - Get customers somehow, continue developing pitch (See pitch file)
+- Hit watford high street, fratellis, ava, chi follow up places
+- North watford again, lots of places boss wasnt in
+- Follow up bushey places too - the olivios, the other buono italian place i think and a couple others + vincenzos
+- Hit Barbers as well maybe
+  
 
 <br>
 
@@ -14,11 +19,17 @@ Split money
 <br>
 
 ### Features:
+#### PRICE NEEDS TO BE MUCH LOWER WITHOUT SMS CAMAPINGS - EVEN LIKE 40-50 QUID FOR 400 CONTACTS WITH ALL FEATURES, SMS THEY CAN THEN ADD ON THEMSELVES
 -	Stripe/payments DONE
     - Test with receipts/invoices and things
+-**Fliers**:
+    - IMPROVE THE FLIER AS REQUIRED WITH PRICING AND THINGS - LEAD MANAGEMENT, BOOKINGS AND APPOINTMENTS,
+    - IMPROVE LEAFLETS - ALL IN ONE PLATFORM, ONE MONTHLY COST with everything
+    - 
 -**Website:**
     - Urgent
         - Update pictures of us and contact us section
+        - Update actual services we offer, check out the email i sent to the refillable guy for services
     - Make a customer/client review seciton - like on the "Marketing-agency page"
 - **Phone Calling:**
     - SMS isnt sent from actual sender name, may lead to seperate number being bought/reviewed - figure out a tutorial
@@ -39,4 +50,4 @@ Split money
         - In "Email services", go to reply and forward settings and put in their email address
         - In business profile, need to set hte default unsubscribe and subscribe links too
         - Inside the automation you can set specific from NAME - WHICH SHOULD BE THE PLACE NAME, and can then just use hexona one and from email address
-        - 
+          
