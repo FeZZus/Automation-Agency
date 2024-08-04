@@ -1,3 +1,32 @@
+## Brief email pitch:
+
+You mentioned you currently use Mail Chimp which I understand only provides email services but is a bit cheaper, so I should mention that by excluding SMS messaging, we actually offer a much cheaper plan that still includes all the features I've mentioned below as part of the trial: 
+
+<br>
+
+**You can use the Hexona Design suite free trial to test out:**
+- All in one Social media management.
+- Sending automated Email marketing campaigns for giveaways, discounts, raffles, birthday offers and more.
+- Follow up workflows and automations to keep customers engaged.
+- No-code surveys and feedback forms.
+- Drag and drop email templates.
+- Google review requests and reputation management.
+-  .....all in one place, fully customised to your brand, with no commitment, no card details or contracts, just a 100% free trial.
+
+<br>
+
+**AND we'll throw in free access to:**
+- Lead management
+- Booking calls and appointments, including automated follow-up
+- Creating zero-code websites, funnels, landing pages.
+- Tracking your calendars, equipment, opportunities, and sales pipelines again to never miss an opportunity.
+
+<br>
+
+**With all the features above (but excluding SMS messaging), we offer a plan for £40 a month**. We'd be more than happy to book a quick 10 minute demo to show you exactly what is on offer here, how we can set you up for a free trial, or even to discuss pricing options if you're ready to boost your customer retention. 
+
+<br>
+
 ## Main Pitch
 Hello my name is faraz, we’re a local software and automation company and we’re offering to help business like yours keep customers coming back, through boosting customer retention. If that sounds like a whokle lot of rubish, and if you don’t mind, I’d like to invest a few minnutes of your time into exploring the idea, and by the end of it, we might create something incredibly meaningful for your business, or I can leave and you will never see me again  Let me just preface this by saying that over the next few weeks we’re giving business a completely free trial of our services, and pretty much everything I say today, and if you don’t see any value in what we’re offering, we can come back at the end of those few weeks, take our stuff, and it will be like we were never here which is fair right?
 
