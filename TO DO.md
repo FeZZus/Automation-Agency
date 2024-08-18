@@ -19,6 +19,7 @@ Split money
 <br>
 
 ### Features:
+#### Seo Checker: https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fhexonadesign.com%2F&crawltype=1
 #### PRICE NEEDS TO BE MUCH LOWER WITHOUT SMS CAMAPINGS - EVEN LIKE 40-50 QUID FOR 400 CONTACTS WITH ALL FEATURES, SMS THEY CAN THEN ADD ON THEMSELVES
 -	Stripe/payments DONE
     - Test with receipts/invoices and things
